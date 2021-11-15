@@ -1,3 +1,6 @@
+//Caleb Rush
+
+
 import java.util.Scanner;
 
 public class SortingHat {
