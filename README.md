@@ -1,2 +1,2 @@
 # Random-Projects
-Random boredom projects
+Random projects for when im bored
